@@ -35,7 +35,9 @@ Metropolitan University, Sylhet, Bangladesh
 
 ## Django:
 <p align="center">
-<img src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/githubx300.jpg" alt="Django" />
+<img src="https://raw.githubusercontent.com/shuvoaftab/project300/main/images/django_terminal.png" alt="Django" />
+<img src="https://raw.githubusercontent.com/shuvoaftab/project300/main/images/django_home.png" alt="Django" />
+<img src="https://raw.githubusercontent.com/shuvoaftab/project300/main/images/django_backend.png" alt="Django" />
 </p>
 
 <hr>
@@ -43,7 +45,8 @@ Metropolitan University, Sylhet, Bangladesh
 
 ## NodeJS:
 <p align="center">
-<img src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/githubx300.jpg" alt="Django" />
+<img src="https://raw.githubusercontent.com/shuvoaftab/project300/main/images/nodejs_terminal.png" alt="NodeJS" />
+<img src="https://raw.githubusercontent.com/shuvoaftab/project300/main/images/nodejs_home.png" alt="NodeJS" />
 </p>
 
 <hr>
@@ -51,7 +54,10 @@ Metropolitan University, Sylhet, Bangladesh
 
 ## React:
 <p align="center">
-<img src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/githubx300.jpg" alt="Django" />
+<img src="https://raw.githubusercontent.com/shuvoaftab/project300/main/images/react.png" alt="React" />
+<img src="https://raw.githubusercontent.com/shuvoaftab/project300/main/images/react1.png" alt="React" />
+<img src="https://raw.githubusercontent.com/shuvoaftab/project300/main/images/react2.png" alt="React" />
+<img src="https://raw.githubusercontent.com/shuvoaftab/project300/main/images/react3.png" alt="React" />
 </p>
 
 <hr>
@@ -59,7 +65,8 @@ Metropolitan University, Sylhet, Bangladesh
 
 ## Laravel:
 <p align="center">
-<img src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/githubx300.jpg" alt="Django" />
+<img src="https://raw.githubusercontent.com/shuvoaftab/project300/main/images/laravel.png" alt="Laravel" />
+<img src="https://raw.githubusercontent.com/shuvoaftab/project300/main/images/laravel_backend.png" alt="Laravel" />
 </p>
 
 <hr>
