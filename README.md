@@ -1,5 +1,6 @@
-# Metropolitan University, Sylhet, Bangladesh
-Project 300 Resources
+# Project 300 Resources
+
+Metropolitan University, Sylhet, Bangladesh
 
 ## Project Links:
 <table>
