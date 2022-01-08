@@ -1,7 +1,7 @@
 # Metropolitan University, Sylhet, Bangladesh
 Project 300 Resources
 
-## URLS >>
+## Project Links:
 <table>
   <thead align="center">
     <tr border: none;>
@@ -11,20 +11,20 @@ Project 300 Resources
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/shuvoaftab/"><b>🟨 Django</b></a></td>
-      <td><a href="https://www.upwork.com/freelancers/~01fa5280996d3915be/"><b><img src="https://img.shields.io/badge/-Upwork-14a800?style=flat&logoColor=white&labelColor=ff1744&logo=upwork"/></b></a></td>
+      <td><a href="https://django.ibrahimsharif.com/"><b>🟨 Django</b></a></td>
+      <td><a href="https://django.ibrahimsharif.com/"><b>django.ibrahimsharif.com</b></a></td>
     </tr>
       <tr>
-      <td><a href="https://github.com/shuvoaftab/"><b>🟡 NodeJS</b></a></td>
-      <td><a href="https://www.upwork.com/freelancers/~01fa5280996d3915be/"><b><img src="https://img.shields.io/badge/-Upwork-14a800?style=flat&logoColor=white&labelColor=ff1744&logo=upwork"/></b></a></td>
+      <td><a href="https://nodejs.ibrahimsharif.com/"><b>🟡 NodeJS</b></a></td>
+      <td><a href="https://nodejs.ibrahimsharif.com/"><b>nodejs.ibrahimsharif.com</b></a></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/shuvoaftab/"><b>🟨 React</b></a></td>
-      <td><a href="https://www.upwork.com/freelancers/~01fa5280996d3915be/"><b><img src="https://img.shields.io/badge/-Upwork-14a800?style=flat&logoColor=white&labelColor=ff1744&logo=upwork"/></b></a></td>
+      <td><a href="https://react.ibrahimsharif.com/"><b>🟨 React</b></a></td>
+      <td><a href="https://react.ibrahimsharif.com/"><b>react.ibrahimsharif.com</b></a></td>
     </tr>
       <tr>
-      <td><a href="https://github.com/shuvoaftab/"><b>🟡 Laravel</b></a></td>
-      <td><a href="https://www.upwork.com/freelancers/~01fa5280996d3915be/"><b><img src="https://img.shields.io/badge/-Upwork-14a800?style=flat&logoColor=white&labelColor=ff1744&logo=upwork"/></b></a></td>
+      <td><a href="https://laravel.ibrahimsharif.com/"><b>🟡 Laravel</b></a></td>
+      <td><a href="https://laravel.ibrahimsharif.com/"><b>laravel.ibrahimsharif.com</b></a></td>
     </tr>
   </tbody>
 </table>
